@@ -1,0 +1,9 @@
+transformers==4.35.2
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+tmdbv3api
+python-dotenv
