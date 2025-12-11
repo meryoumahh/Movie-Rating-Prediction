@@ -6,7 +6,7 @@ End-to-end machine learning project predicting movie ratings based on genres usi
 
 Built a complete ML pipeline comparing three data preprocessing approaches:
 - **API Experiment**: Enhanced missing genres using TMDB API
-- **NLTK Experiment**: Text processing for genre extraction  
+- **NLTK Experiment**: Predicting movie genres based on the similarity between words (title and genres)  
 - **Delete Experiment**: Removed movies with missing genres
 
 ## Key Components
