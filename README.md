@@ -47,3 +47,6 @@ All three preprocessing approaches yielded similar top-rated movies and model pe
 ## Presentation
 
 [View Project Presentation](https://docs.google.com/presentation/d/18n5gS4Ftr-P3Fdv2Fde9hzXW4Ki9xmQAAeqlbcgEwF4/edit?usp=sharing)
+
+## NB 
+The streamlit app is now not linked to the main model, I created a new model with the same caracteristics of the main one for testing reasons for the streamlit interface
